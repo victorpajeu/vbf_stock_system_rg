@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'decouple',
     'core',
     'produto',
+    'estoque_',
 ]
 
 MIDDLEWARE = [
