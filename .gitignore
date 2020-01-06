@@ -1,2 +1,7 @@
-.venv
-.ideal
+.env
+.idea/
+.vscode/
+.venv/
+*.sqlite3
+.gitignore
+core
