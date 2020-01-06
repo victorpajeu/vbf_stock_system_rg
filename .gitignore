@@ -1,2 +1,5 @@
+.env
 .venv
-.ideal
+.idea/
+.vscode/
+db.sqlite3
